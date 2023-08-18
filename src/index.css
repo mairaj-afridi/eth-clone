@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero{
+  border-radius: 13.304px;
+background: var(--blue, #2478A8);
+}
+.wel-img {
+  transform: rotate(10deg);
+flex-shrink: 0;
+}
+.wel-text{
+  transform: rotate(-7deg);
+flex-shrink: 0;
+}
